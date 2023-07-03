@@ -14,7 +14,7 @@
 
  
 ## Schematic Layout
-![Schematic_Graduation Project SBME2023_2023-06-30](https://github.com/HamzaJamal782/PCB-Schematic-Layout-Design/assets/61354965/ac5f6d50-bd39-45e1-bd8d-fc1060d58a0e){: style="border: 1px solid yellow"}
+![Schematic_Graduation Project SBME2023_2023-06-30](https://github.com/HamzaJamal782/PCB-Schematic-Layout-Design/assets/61354965/ac5f6d50-bd39-45e1-bd8d-fc1060d58a0e)
 
 
 ## PCB Layout
